@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:SmartSDKExample/../SmartSDK/SmartSDK.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:SmartSDKExample/SmartSDKExample.xcodeproj">
    </FileRef>
 </Workspace>
