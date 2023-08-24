@@ -6,12 +6,14 @@
     
 
 import UIKit
+import SmartSDK
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+        
+        print("\(sum(m: 100, n: 10))")
     }
 
 
